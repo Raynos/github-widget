@@ -1,0 +1,28 @@
+{
+  "name": "github-widget",
+  "version": "1.0.0",
+  "description": "A github UI widget",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Raynos/github-widget"
+  },
+  "author": "raynos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raynos/github-widget/issues"
+  },
+  "homepage": "https://github.com/Raynos/github-widget",
+  "dependencies": {
+    "global": "^4.2.1",
+    "mercury": "^3.2.3",
+    "observ": "^0.1.6",
+    "xhr": "^1.7.0"
+  }
+}
